@@ -1,1 +1,1 @@
-# goit-markup-hw-06-bem
+# goit-markup-hw-06
